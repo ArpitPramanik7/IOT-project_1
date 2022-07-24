@@ -1,4 +1,4 @@
-This project is a Temperature alarm system.
+This project is a Temperature fluctuating alarm system.
 
 Tech used Python3,Linux(Ubuntu),Telegram_bot,Twilo_sys.
 Hardware: IOT device, Temperature measuring sensor(LM35), wires.
